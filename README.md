@@ -1,1 +1,1 @@
-An implementation of a complete machine learning solution in Python on a real-world dataset. This project is meant to demonstrate how all the steps of a machine learning pipeline come together to solve a problem!
+This project is made with the help of a series of articles (https://habr.com/ru/company/nix/blog/425253/?ysclid=l5hcz1zs8631221184). The project shows which of the independent variables correlate most strongly with the Energy Star Score, and a model predicting the Energy Star Score was also created.
